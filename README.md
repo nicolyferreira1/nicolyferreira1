@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Scrum-00ADD8?style=for-the-badge&logo=scrumalliance&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ### 📚 Formação & Cursos
-🎓 **Ciência da Computação** - USCS (Previsão de conclusão: 2025)
+🎓 **Ciência da Computação** - USCS (Previsão de conclusão: julho/2026)
 📜 **Gestão de Recursos Humanos & Administração** - ETEC
 📌 **Cursos**:
 - Fundamentos de Testes de Software
